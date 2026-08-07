@@ -9,7 +9,7 @@
 <!-- CHIBI / AESTHETIC VISUAL (Replace with your favorite GIF or artwork) -->
 <img src="https://giphy.com" width="150" alt="Cute Coding Cat"/>
 
-<h3> 🌸 Welcome to my cozy corner of GitHub! 🌸 </h3>
+<h3> 🌸 wlc to my github page, angel ! 🌸 </h3>
 
 <!-- PROFILE VISIT COUNTER -->
 <img src="https://komarev.com⭐" alt="visitor counter" />
@@ -19,27 +19,14 @@
 
 ---
 
-### ✨ About Me
-* 🧸 **Pronouns:** She/Her or They/Them  
-* 💻 **Currently working on:** A super secret, cozy project  
-* 📚 **Learning:** Advanced CSS magic and UI animation  
-* ☕ **Obsessions:** Matcha lattes, pastel mechanical keyboards, and pixel art  
+### ✨ abt me :3
+* 🧸 **prns:** she / he / it / paw  
+* 💻 **working on:** silly project hehe  
+* 📚 **learning:** ui animation 
+* ☕ **current fixaions:** hetalia , ngo , pmmm , tcoaal , adopt me (lol)
 
 ---
 
-### 🎀 My Soft Skills & Tech Stack
-
-<div align="left">
-  <!-- Pastel / Cute Badges using Shields.io -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-
----
 
 ### 🎨 My Cute Stats
 
@@ -55,7 +42,7 @@
 
 ---
 
-### 💌 Let's Be Friends!
+### 💌 letz be friendz !!
 <div align="center">
   <a href="https://twitter.com"><img src="https://shields.io" /></a>
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
