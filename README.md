@@ -1,29 +1,45 @@
-# 𑣲⋆ • lovefromkyupi • she/he/it/paw ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐  
-### ˚₊‧꒰ა your unreliable courrier ໒꒱ ‧₊˚
+# 𑣲⋆ • lovefromkyupi • she/he/it/paw ִֶָ𓂃🪽
+
+> *˚₊‧꒰ა your unreliable courrier ໒꒱ ‧₊˚*
 
 <img align="right" width="180" src="https://mocha.crd.co/assets/images/gallery05/fe4fa063.png?v=667e73fe" alt="cute nurse">
 
 
 
- ଘ(੭ˊᵕˋ)੭ about me  
+ ## ଘ(੭ˊᵕˋ)੭ you've got mail !!
  
 to : you 💌🪽
 
-haiii!! i'm kyupi, your favorite mail carrier angel hehe !! i love drawing cute girls and collecting ocs :3 bpd + gad ,, i'm the most neet to have ever neet. hopefully we can be friendz hehe ;3 would be glad, so don't be afraid to say hai !
+haiii!!
+i'm kyupi, your unreliable courrier angel...
 
--love, kyupi
+i spend most of my time drawing cute girls, making ocs,
+and obsessing over fictional characters..
 
----
+currently running on:
+♡ monster
+♡ hopes nd dreams
+♡ poor sleep schedule
+
+love,
+kyupi 💌
+
+<!--
+you found my secret letter!!
+thank u for visiting ♡
+-->
+
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
 
 ## 🎀 fixationz atm  
-- ✧ hetalia
-- ✧ pmmm  
-- ✧ ngo  
-- ✧ nekopara  
-- ✧ mlp  
-- ✧ adopt me
+💌 HETALIA
+💌 PMMM
+💌 NGO
+💌 NEKOPARA
+💌 MLP
+💌 ADOPT ME
 
----
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
 
 ## 💌 socials & links  
 **artfight:** https://artfight.net/~lovefromkyupi  
@@ -31,12 +47,12 @@ haiii!! i'm kyupi, your favorite mail carrier angel hehe !! i love drawing cute 
 **rblx:** BARBAPAPA987 (dont comment; old username) 
 **github:** you’re already here hehe  
 
----
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
 
-## 🌸 status  
-currently asleep for the next 3 weeks
+## 📦 current delivery status
+◉ sleeping indefinitely
 
----
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
 
 ## 🧸 graphicz  
 <!-- add your own blinkies, stamps, or pixel decorations here! -->
@@ -49,9 +65,34 @@ currently asleep for the next 3 weeks
   ✧･ﾟ: ✧･ﾟ: 　　 :･ﾟ✧:･ﾟ✧
 
 
----
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
 
-## 🎨 art section  
+## 📬 mailbox
+
+currently accepting:
+
+♡ friends
+♡ oc yapping
+♡ art trades
+♡ silly coding projects
+♡ ponytown whispers
+
+currently rejecting:
+
+✘ chain mail
+✘ responsibilities
+✘ waking up before noon
+
+━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+
+## 🎨 sketchbook corner
+
+> little doodles i've delivered recently...
+
+<img ...>
+<img ...>
+
+✉️ coming soon...
 
 ---
 
