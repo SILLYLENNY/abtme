@@ -1,98 +1,231 @@
+<div align="center">
+
 # 𑣲⋆ • lovefromkyupi • she/he/it/paw ִֶָ𓂃🪽
 
 > *˚₊‧꒰ა your unreliable courrier ໒꒱ ‧₊˚*
 
-<img align="right" width="180" src="https://mocha.crd.co/assets/images/gallery05/fe4fa063.png?v=667e73fe" alt="cute nurse">
+<img src="YOUR-KYUPI-HEADER.png" width="500">
 
+˚₊‧────────────── 💌 ──────────────‧₊˚
 
+</div>
 
- ## ଘ(੭ˊᵕˋ)੭ you've got mail !!
- 
-to : you 💌🪽
+<table>
+<tr>
 
-haiii!!
-i'm kyupi, your unreliable courrier angel...
+<td width="55%" valign="top">
 
-i spend most of my time drawing cute girls, making ocs,
-and obsessing over fictional characters..
+## 📮 you've got mail !!
 
-currently running on:
+```
+to : you 💌
+
+haiii !!
+
+i'm kyupi,
+your unreliable courrier angel.
+
+i draw cute girls,
+collect way too many ocs,
+and somehow become emotionally
+attached to fictional characters.
+
+currently running on...
+
 ♡ monster
 ♡ hopes nd dreams
 ♡ poor sleep schedule
 
 love,
 kyupi 💌
+```
 
-<!--
-you found my secret letter!!
-thank u for visiting ♡
--->
+</td>
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+<td width="45%" align="center">
 
-## 🎀 fixationz atm  
-💌 HETALIA
-💌 PMMM
-💌 NGO
-💌 NEKOPARA
-💌 MLP
-💌 ADOPT ME
+<img src="YOUR-CHIBI.png" width="220">
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+### 🪽 angel file
 
-## 💌 socials & links  
-**artfight:** https://artfight.net/~lovefromkyupi  
-**pony town:** you alr came from there bud  
-**rblx:** BARBAPAPA987 (dont comment; old username) 
-**github:** you’re already here hehe  
+```
+name :: kyupi
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+species ::
+mail angel
 
-## 📦 current delivery status
-◉ sleeping indefinitely
+occupation ::
+delivering love letters
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+alignment ::
+chaotic sleepy
 
-## 🧸 graphicz  
-<!-- add your own blinkies, stamps, or pixel decorations here! -->
-<img src="https://i.imgur.com/1Q8ZQ0R.gif" height="40">
-<img src="https://i.imgur.com/4YVZz0P.png" height="40">
-<img src="https://i.imgur.com/8fKQX9u.gif" height="40">
+status ::
+probably online
+```
 
+</td>
 
+</tr>
+</table>
 
-  ✧･ﾟ: ✧･ﾟ: 　　 :･ﾟ✧:･ﾟ✧
+---
 
+<table>
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+<tr>
+
+<td width="50%" valign="top">
+
+## 💌 stamp collection
+
+🩷 HETALIA
+
+🪽 PMMM
+
+🎀 NGO
+
+🐈‍⬛ NEKOPARA
+
+☁️ MLP
+
+📦 ADOPT ME
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📦 current delivery
+
+```
+status ::
+
+💤 asleep
+
+working on ::
+
+🎨 drawing
+🪽 vtuber
+💌 ocs
+
+brain ::
+
+□□□□□□□□□□
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 📬 mailbox
 
-currently accepting:
+### accepting...
 
-♡ friends
-♡ oc yapping
-♡ art trades
-♡ silly coding projects
-♡ ponytown whispers
+💌 friends
 
-currently rejecting:
+🎨 art trades
+
+🐶 ponytown whispers
+
+💻 silly coding
+
+🪽 oc yapping
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📭 return to sender
+
+✘ responsibilities
+
+✘ mornings
 
 ✘ chain mail
-✘ responsibilities
-✘ waking up before noon
 
-━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━
+✘ grass
 
-## 🎨 sketchbook corner
+✘ functioning properly
 
-> little doodles i've delivered recently...
+</td>
 
-<img ...>
-<img ...>
+</tr>
 
-✉️ coming soon...
+</table>
+
+---
+
+## 🌸 delivery routes
+
+| 📮 | destination |
+|-----|-------------|
+| 🎨 | **ArtFight** → https://artfight.net/~lovefromkyupi |
+| 🐴 | **Pony Town** → you already found me :3 |
+| 🎮 | **Roblox** → BARBAPAPA987 |
+| 💻 | **GitHub** → you're literally here silly |
+
+---
+
+<div align="center">
+
+## 🧸 sticker sheet
+
+<img src="blinkie1.gif" height="20">
+<img src="blinkie2.gif" height="20">
+<img src="blinkie3.gif" height="20">
+<img src="blinkie4.gif" height="20">
+<img src="blinkie5.gif" height="20">
+
+</div>
+
+---
+
+## 🎨 recently delivered
+
+<div align="center">
+
+<img src="art1.png" width="180">
+<img src="art2.png" width="180">
+<img src="art3.png" width="180">
+
+</div>
+
+---
+
+## 🧃 pony town wardrobe
+
+<div align="center">
+
+<img src="skin1.png" width="150">
+<img src="skin2.png" width="150">
+<img src="skin3.png" width="150">
+<img src="skin4.png" width="150">
+
+</div>
+
+---
+
+<div align="center">
+
+```
+｡ﾟﾟ･｡･ﾟﾟ｡
+ﾟ。 thank u for visiting ♡
+　ﾟ･｡･ﾟ
+```
+
+🪽💌
+
+</div>
 
 ---
 
