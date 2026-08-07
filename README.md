@@ -1,117 +1,124 @@
-<div align="center">
+<!-- ========================================= -->
+<!--              HEADER                       -->
+<!-- ========================================= -->
+
+<p align="center">
 
 # 𑣲⋆ • lovefromkyupi • she/he/it/paw ִֶָ𓂃🪽
 
-> *˚₊‧꒰ა your unreliable courrier ໒꒱ ‧₊˚*
+*˚₊‧꒰ა your unreliable courrier angel ໒꒱ ‧₊˚*
 
-<img src="YOUR-KYUPI-HEADER.png" width="500">
+<img src="YOUR_HEADER_IMAGE.png" width="700">
 
-˚₊‧────────────── 💌 ──────────────‧₊˚
+</p>
 
-</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table>
+
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## 📮 you've got mail !!
+## 💌 you've got mail
 
 ```
-to : you 💌
+to : you 🪽
 
-haiii !!
+haiii!!
 
 i'm kyupi,
 your unreliable courrier angel.
 
-i draw cute girls,
-collect way too many ocs,
-and somehow become emotionally
-attached to fictional characters.
+i spend my days...
 
-currently running on...
+♡ drawing cute girls
+♡ making ocs
+♡ obsessing over fictional characters
+
+currently running on:
 
 ♡ monster
 ♡ hopes nd dreams
 ♡ poor sleep schedule
 
-love,
+-love,
 kyupi 💌
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img src="YOUR-CHIBI.png" width="220">
+<img src="YOUR_CHIBI.png" width="210">
 
-### 🪽 angel file
+### angel file
 
-```
-name :: kyupi
-
-species ::
+🪽 species  
 mail angel
 
-occupation ::
+🎀 occupation  
 delivering love letters
 
-alignment ::
-chaotic sleepy
+🌙 status  
+probably asleep
 
-status ::
-probably online
-```
+☁️ alignment  
+chaotic comfy
 
 </td>
 
 </tr>
+
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table>
 
 <tr>
 
-<td width="50%" valign="top">
-
-## 💌 stamp collection
-
-🩷 HETALIA
-
-🪽 PMMM
-
-🎀 NGO
-
-🐈‍⬛ NEKOPARA
-
-☁️ MLP
-
-📦 ADOPT ME
-
-</td>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ## 📦 current delivery
 
-```
-status ::
+🟢 drawing
 
 💤 asleep
 
-working on ::
+🎮 probably on adopt me
 
-🎨 drawing
-🪽 vtuber
-💌 ocs
+☕
 
-brain ::
+██████████
 
-□□□□□□□□□□
-```
+energy
+
+██░░░░░░░░
+
+motivation
+
+██████████
+
+oc ideas
+
+</td>
+
+<td width="50%">
+
+## 💌 stamp collection
+
+🏷️ HETALIA
+
+🏷️ PMMM
+
+🏷️ NGO
+
+🏷️ NEKOPARA
+
+🏷️ MLP
+
+🏷️ ADOPT ME
 
 </td>
 
@@ -119,33 +126,33 @@ brain ::
 
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ## 📬 mailbox
 
-### accepting...
+### accepting
 
-💌 friends
+♡ friends
 
-🎨 art trades
+♡ oc yapping
 
-🐶 ponytown whispers
+♡ art trades
 
-💻 silly coding
+♡ silly coding
 
-🪽 oc yapping
+♡ ponytown whispers
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 📭 return to sender
+## 📭 returned to sender
 
 ✘ responsibilities
 
@@ -153,9 +160,7 @@ brain ::
 
 ✘ chain mail
 
-✘ grass
-
-✘ functioning properly
+✘ touching grass
 
 </td>
 
@@ -163,72 +168,102 @@ brain ::
 
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌸 delivery routes
+## 🎀 favorite corners of the internet
 
-| 📮 | destination |
-|-----|-------------|
-| 🎨 | **ArtFight** → https://artfight.net/~lovefromkyupi |
-| 🐴 | **Pony Town** → you already found me :3 |
-| 🎮 | **Roblox** → BARBAPAPA987 |
-| 💻 | **GitHub** → you're literally here silly |
+💌 ArtFight
 
----
+https://artfight.net/~lovefromkyupi
 
-<div align="center">
+🪽 Pony Town
 
-## 🧸 sticker sheet
+you're probably from there!!
 
-<img src="blinkie1.gif" height="20">
-<img src="blinkie2.gif" height="20">
-<img src="blinkie3.gif" height="20">
-<img src="blinkie4.gif" height="20">
-<img src="blinkie5.gif" height="20">
+🎮 Roblox
 
-</div>
+BARBAPAPA987
 
----
+🐾 Github
 
-## 🎨 recently delivered
+you already found me hehe
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧸 graphicz
+
+<p align="center">
+
+<img src="blinkie1.gif">
+<img src="blinkie2.gif">
+<img src="stamp1.png">
+<img src="stamp2.png">
+
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎨 sketchbook
+
+<table>
+
+<tr>
+
+<td>
 
 <img src="art1.png" width="180">
+
+</td>
+
+<td>
+
 <img src="art2.png" width="180">
+
+</td>
+
+<td>
+
 <img src="art3.png" width="180">
 
-</div>
+</td>
 
----
+</tr>
 
-## 🧃 pony town wardrobe
+</table>
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="skin1.png" width="150">
-<img src="skin2.png" width="150">
-<img src="skin3.png" width="150">
-<img src="skin4.png" width="150">
+## 🍓 ponytown
 
-</div>
+<table>
 
----
+<tr>
 
-<div align="center">
+<td>
 
-```
-｡ﾟﾟ･｡･ﾟﾟ｡
-ﾟ。 thank u for visiting ♡
-　ﾟ･｡･ﾟ
-```
+<img src="skin1.png" width="160">
 
-🪽💌
+</td>
 
-</div>
+<td>
 
----
+<img src="skin2.png" width="160">
 
-## 🧃fav pt skinz showcaseeee  
+</td>
 
+<td>
+
+<img src="skin3.png" width="160">
+
+</td>
+
+</tr>
+
+</table>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<!--
+thank u for visiting!! 💌
+-->
 
