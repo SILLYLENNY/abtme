@@ -1,269 +1,207 @@
-<!-- ========================================= -->
-<!--              HEADER                       -->
-<!-- ========================================= -->
-
+<!-- HEADER BANNER -->
 <p align="center">
-
-# 𑣲⋆ • lovefromkyupi • she/he/it/paw ִֶָ𓂃🪽
-
-*˚₊‧꒰ა your unreliable courrier angel ໒꒱ ‧₊˚*
-
-<img src="YOUR_HEADER_IMAGE.png" width="700">
-
+  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:egwi7sdo4yg6h53gzkn4hg4u/bafkreiczjjyhxnxixq3rgb4eejsf4pncdtjizex4xvsklwt3j25xmu27nq" width="100%" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- SUBTITLE / TAGLINE -->
+<p align="center">
+ <strong> 𑣲⋆ kყυρι ˚ʚ♡ɞ˚ ᥣovᥱfromkყυρι ˚ʚ♡ɞ˚ shᥱ / hᥱ / ιt / ρᥲw ִֶָ𓂃🪽</strong>
+</p>
 
-<table>
+<p align="center">
+  <a href="https://bsky.app/profile/kyu-chan.bsky.social"><img src="https://shields.io" alt="bluesky" /></a>
+  <a href="https://twitter.com/strwbrylollipup"><img src="https://shields.io" alt="Twitter" /></a>
+</p>
 
-<tr>
+---
 
-<td width="58%" valign="top">
+### to : ყoυ 💌 
+hᥲιιι !!  ι'm kყυρι, ყoυr υᥒrᥱᥣιᥲbᥣᥱ ᥴoυrrιᥱr ᥲᥒgᥱᥣ.  ι drᥲw ᥴυtᥱ gιrᥣs, ᥴoᥣᥣᥱᥴt wᥲყ too mᥲᥒყ oᥴs, ᥲᥒd somᥱhow bᥱᥴomᥱ ᥱmotιoᥒᥲᥣᥣყ ᥲttᥲᥴhᥱd to fιᥴtιoᥒᥲᥣ ᥴhᥲrᥲᥴtᥱrs.  
+ᥴυrrᥱᥒtᥣყ rυᥒᥒιᥒg oᥒ... 
+♡ moᥒstᥱr 
+♡ hoρᥱs ᥒd drᥱᥲms 
+♡ ρoor sᥣᥱᥱρ sᥴhᥱdυᥣᥱ  
 
-## 💌 you've got mail
-
-```
-to : you 🪽
-
-haiii!!
-
-i'm kyupi,
-your unreliable courrier angel.
-
-i spend my days...
-
-♡ drawing cute girls
-♡ making ocs
-♡ obsessing over fictional characters
-
-currently running on:
-
-♡ monster
-♡ hopes nd dreams
-♡ poor sleep schedule
-
--love,
-kyupi 💌
-```
+ᥣovᥱ, 
+kყυρι 💌
+---
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="YOUR_CHIBI.png" width="210">
+<img src="YOUR_CHIBI.png" width="220">
 
-### angel file
+### 🪽 angel file
 
-🪽 species  
-mail angel
+```
+name :: kyupi
 
-🎀 occupation  
-delivering love letters
+role :: courrier angel
 
-🌙 status  
-probably asleep
+level :: professional neet
 
-☁️ alignment  
-chaotic comfy
+status :: sleepy
+
+favorite thing ::
+
+drawing girls ♡
+```
 
 </td>
 
 </tr>
-
 </table>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## 📦 current delivery
+## 🎀 stamp collection
 
-🟢 drawing
+🩷 HETALIA
 
-💤 asleep
+🌸 PMMM
 
-🎮 probably on adopt me
+🪽 NGO
 
-☕
+🐱 NEKOPARA
 
-██████████
+🎠 MLP
 
-energy
-
-██░░░░░░░░
-
-motivation
-
-██████████
-
-oc ideas
+📦 ADOPT ME
 
 </td>
 
 <td width="50%">
 
-## 💌 stamp collection
+## 📦 delivery status
 
-🏷️ HETALIA
+```
+currently ::
 
-🏷️ PMMM
+💤 sleeping indefinitely
 
-🏷️ NGO
+working on ::
 
-🏷️ NEKOPARA
+🎨 drawing
 
-🏷️ MLP
+☕ surviving
 
-🏷️ ADOPT ME
+📬 procrastinating
+```
 
 </td>
 
 </tr>
-
 </table>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
 <table>
-
 <tr>
 
 <td width="50%">
 
 ## 📬 mailbox
 
-### accepting
+### accepting...
 
-♡ friends
+💌 friends
 
-♡ oc yapping
+🎨 art trades
 
-♡ art trades
+🩷 oc yapping
 
-♡ silly coding
+🐴 ponytown whispers
 
-♡ ponytown whispers
+💻 silly coding
 
 </td>
 
 <td width="50%">
 
-## 📭 returned to sender
+## 🚫 return to sender
 
 ✘ responsibilities
 
-✘ mornings
-
 ✘ chain mail
 
-✘ touching grass
+✘ waking up early
+
+✘ grass
 
 </td>
 
 </tr>
-
 </table>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
-## 🎀 favorite corners of the internet
+## 💌 delivery routes
 
-💌 ArtFight
+| destination | location |
+|:---|:---|
+| 🎨 ArtFight | https://artfight.net/~lovefromkyupi |
+| 🐴 Pony Town | you probably came from there hehe |
+| 🎮 Roblox | BARBAPAPA987 |
+| 💻 GitHub | you're already here!! |
 
-https://artfight.net/~lovefromkyupi
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
-🪽 Pony Town
+<div align="center">
 
-you're probably from there!!
+## 🧸 sticker sheet
 
-🎮 Roblox
+<img src="blinkie1.gif" height="20">
+<img src="blinkie2.gif" height="20">
+<img src="blinkie3.gif" height="20">
+<img src="blinkie4.gif" height="20">
 
-BARBAPAPA987
+</div>
 
-🐾 Github
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
-you already found me hehe
+## 🎨 recently delivered
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-## 🧸 graphicz
+<img src="ART1.png" width="180">
+<img src="ART2.png" width="180">
+<img src="ART3.png" width="180">
 
-<p align="center">
+*little doodles i've delivered recently...*
 
-<img src="blinkie1.gif">
-<img src="blinkie2.gif">
-<img src="stamp1.png">
-<img src="stamp2.png">
+</div>
 
-</p>
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🧃 favorite pony town skinz
 
-## 🎨 sketchbook
+<div align="center">
 
-<table>
+<img src="PT1.png" width="140">
+<img src="PT2.png" width="140">
+<img src="PT3.png" width="140">
+<img src="PT4.png" width="140">
 
-<tr>
+</div>
 
-<td>
+━━━━━━━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━━━━━━━
 
-<img src="art1.png" width="180">
+<div align="center">
 
-</td>
+```
+｡ﾟﾟ･｡･ﾟﾟ｡
+ﾟ。   💌
+　ﾟ･｡･ﾟ
 
-<td>
+thanks for stopping by!!
 
-<img src="art2.png" width="180">
+come visit again sometime ♡
+```
 
-</td>
-
-<td>
-
-<img src="art3.png" width="180">
-
-</td>
-
-</tr>
-
-</table>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🍓 ponytown
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="skin1.png" width="160">
-
-</td>
-
-<td>
-
-<img src="skin2.png" width="160">
-
-</td>
-
-<td>
-
-<img src="skin3.png" width="160">
-
-</td>
-
-</tr>
-
-</table>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<!--
-thank u for visiting!! 💌
--->
-
+</div>
