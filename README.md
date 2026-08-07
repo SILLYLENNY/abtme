@@ -1,54 +1,84 @@
-<div align="center">
+# 🌈💖 ᴋʏ • sillylenny • they/she 💖🌈  
+### ✨ digital creature • artist • ponytown wanderer • adopt me enjoyer ✨
 
-<!-- CUTE HEADER BANNER -->
-<img src="https://vercel.app✨%20hi,%20i'm%20yourname%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<!-- DAILY QUOTE OR STATUS -->
-<p><i>"Coding with a cup of warm tea and a splash of magic ☕✨"</i></p>
-
-<!-- CHIBI / AESTHETIC VISUAL (Replace with your favorite GIF or artwork) -->
-<img src="https://giphy.com" width="150" alt="Cute Coding Cat"/>
-
-<h3> 🌸 wlc to my github page, angel ! 🌸 </h3>
-
-<!-- PROFILE VISIT COUNTER -->
-<img src="https://komarev.com⭐" alt="visitor counter" />
-
-<br />
-</div>
+<img align="right" width="180" src="https://i.imgur.com/4YVZz0P.png" alt="pixel creature">
+<!-- replace with your own PNG/GIF if you want -->
 
 ---
 
-### ✨ abt me :3
-* 🧸 **prns:** she / he / it / paw  
-* 💻 **working on:** silly project hehe  
-* 📚 **learning:** ui animation 
-* ☕ **current fixaions:** hetalia , ngo , pmmm , tcoaal , adopt me (lol)
+## 🦋 about me  
+hi!! i’m **ᴋʏ**, a tiny internet creature who loves drawing cute weird things and hanging out in cozy worlds.  
+i’m usually found:
+- 🎨 doodling monster girls + funky critters  
+- 🐾 roaming ponytown holding a plush  
+- 🧸 playing adopt me and collecting silly pets  
+- 🌙 vibing in old‑web spaces, glitter graphics, pixel aesthetics  
+- 💬 being shy but friendly (you can say hi if u want)
 
 ---
 
-
-### 🎨 My Cute Stats
-
-<div align="center">
-  <!-- Cute themed github stats -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  
-  <br /><br />
-  
-  <!-- Contribution Snake Game / Cute Activity Graph -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</div>
+## 🎀 interests  
+- ✧ monster girls  
+- ✧ pixel art + old web graphics  
+- ✧ creatures, critters, funky little guys  
+- ✧ pastel fashion + cute accessories  
+- ✧ nostalgia games (friv, animal jam, roblox, etc)  
+- ✧ cozy worlds + sparkly things  
 
 ---
 
-### 💌 letz be friendz !!
-<div align="center">
-  <a href="https://twitter.com"><img src="https://shields.io" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://shields.io" /></a>
-</div>
+## 💌 socials & links  
+**artfight:** https://artfight.net/~SillyLenny  
+**pony town:** wandering around, probably holding a plush  
+**roblox:** adopt me enjoyer  
+**github:** you’re already here hehe  
 
-<div align="center">
-  <img src="https://githubusercontent.com" width="100%" />
-</div>
+---
+
+## 🌸 status  
+**currently:** drawing, vibing, procrastinating  
+**mood:** pastel chaos  
+**pronouns:** they/she  
+
+---
+
+## 🧸 blinkies + stamps  
+<!-- add your own blinkies, stamps, or pixel decorations here! -->
+<img src="https://i.imgur.com/1Q8ZQ0R.gif" height="40">
+<img src="https://i.imgur.com/4YVZz0P.png" height="40">
+<img src="https://i.imgur.com/8fKQX9u.gif" height="40">
+
+---
+
+## 🐾 creature corner  
+> i’m just a little guy on the internet  
+> making cute things and having fun  
+> thanks for stopping by 💖
+
+---
+
+## 🌈 divider
+✧･ﾟ: ✧･ﾟ: 　　 :･ﾟ✧:･ﾟ✧
+
+
+---
+
+## 🎨 art section (optional)  
+If you want, you can add:
+- a gallery of your art  
+- links to your characters  
+- pixel icons  
+- ponytown skins  
+- adopt me pets you love  
+
+---
+
+## 🧃 extra (optional)  
+You can add:
+- a “Q&A about me” section  
+- a “my creatures” section  
+- a “my aesthetics” moodboard  
+- a “currently obsessed with” list  
+- a “my ponytown skins” showcase  
+
+
